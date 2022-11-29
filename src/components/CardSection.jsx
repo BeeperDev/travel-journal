@@ -9,7 +9,7 @@ const CardSection = () => {
 
   return (
     <div>
-      <section className="max-w-[767px] mx-auto border py-1 px-4 bg-[#f8f8f8]">
+      <section className="w-[767px] mx-auto py-1 px-4 bg-[#fbfbfb]">
         {cards}
       </section>
     </div>
