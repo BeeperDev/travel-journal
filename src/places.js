@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     title: "Devil's Causeway",
-    location: "Colorado",
+    location: "COLORADO",
     googleMapsUrl: "https://goo.gl/maps/cVGQCRTTqSFFx8Vt5",
     startDate: "02 Jul, 2020",
     endDate: "02 Jul, 2020",
@@ -13,7 +13,7 @@ export default [
   {
     id: 2,
     title: "Mount Rushmore",
-    location: "South Dakota",
+    location: "SOUTH DAKOTA",
     googleMapsUrl: "https://goo.gl/maps/uEwNdYyYATdy2Ugj8",
     startDate: "20 Jun, 2021",
     endDate: "24 Jun, 2021",
@@ -24,7 +24,7 @@ export default [
   {
     id: 3,
     title: "Grand Canyon",
-    location: "Arizona",
+    location: "ARIZONA",
     googleMapsUrl: "https://goo.gl/maps/mjwjZP58taEe34pb9",
     startDate: "10 Jun, 2022",
     endDate: "14 Jun, 2022",
