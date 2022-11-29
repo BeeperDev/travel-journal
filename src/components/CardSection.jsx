@@ -9,7 +9,9 @@ const CardSection = () => {
 
   return (
     <div>
-      <section className="max-w-[767px] mx-auto py-6">{cards}</section>
+      <section className="max-w-[767px] mx-auto border py-6 px-4">
+        {cards}
+      </section>
     </div>
   );
 };
